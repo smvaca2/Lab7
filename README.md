@@ -13,7 +13,7 @@ _Martin Vaca
 
 ***2.-MARCO TEÓRICO***
 
-![]()
+![](https://github.com/smvaca2/Lab7/blob/3acf86b5d05365ad79a799d7161147440bc740ab/teoria.PNG)
 
 ***3.-EXPLICACIÓN DEL PROCEDIMIENTO***
 
@@ -67,11 +67,11 @@ de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
 frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
-![]()
+![](https://github.com/smvaca2/Lab7/blob/3acf86b5d05365ad79a799d7161147440bc740ab/c1.PNG)
 
 2.- Construya el circuito mostrado en la Figura 2
 
-![]()
+![](https://github.com/smvaca2/Lab7/blob/3acf86b5d05365ad79a799d7161147440bc740ab/c2.PNG)
 
 Realice las mismas mediciones de los ítems del numeral anterior y presente los resultados.
 
