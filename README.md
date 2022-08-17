@@ -9,34 +9,27 @@ _Martin Vaca
 
 ***1.-OBJETIVOS***
 
+_Identificar qué es un conductor y qué es un inductor, sus características y usos.
 
+_Aprender el uso y manejo de un osciloscopio en dcaclab
+
+_Estudiar el comportamiento de las bobinas en circuitos AC
 
 ***2.-MARCO TEÓRICO***
 
 ![](https://github.com/smvaca2/Lab7/blob/3acf86b5d05365ad79a799d7161147440bc740ab/teoria.PNG)
 
-***3.-EXPLICACIÓN DEL PROCEDIMIENTO***
-
-![]()
-
-![]()
-
-![]()
-
-![]()
-
-***4.-RESPUESTA A INTERROGANTES Y CALCULO DE ERROR***
+***3.-RESPUESTA A INTERROGANTES Y CALCULO DE ERROR***
 
 **===================Teorema de la Máxima Transferencia de Potencia ======================**
 
-**4.1. OBJETIVO DE LA PRÁCTICA**
+**3.1. OBJETIVO DE LA PRÁCTICA**
 
-- Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
-- Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
+- Verificar el comportamiento de la bobina y el capacitor en circuitos DC..
 - Verificar las combinaciones serie y paralelo de bobinas y capacitores.
 - Familiarizarse con el uso de instrumentos de medida.
 
-**4.2. MATERIALES**
+**3.2. MATERIALES**
 
 - Laboratorio virtual ACDCLab
 
@@ -54,7 +47,7 @@ _Martin Vaca
 
 - Resistencias, bobinas y capacitores.
 
-**4.3.PROCEDIMIENTO**
+**3.3.PROCEDIMIENTO**
 
 1.- Construya en el protoboard el circuito mostrado en la Figura 1.
 
@@ -75,13 +68,21 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 Realice las mismas mediciones de los ítems del numeral anterior y presente los resultados.
 
-**4.4.ANÁLISIS DE RESULTADOS**
+**3.4.ANÁLISIS DE RESULTADOS**
 
 1.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las
 diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y
 comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
 
-**4.5.PREGUNTAS**
+![](https://github.com/smvaca2/Lab7/blob/4e83f4c5329419f703d959d422374cb20f9708e4/TC1.PNG)
+
+![](https://github.com/smvaca2/Lab7/blob/4e83f4c5329419f703d959d422374cb20f9708e4/TC2.PNG)
+
+![](https://github.com/smvaca2/Lab7/blob/4e83f4c5329419f703d959d422374cb20f9708e4/TI1.PNG)
+
+![](https://github.com/smvaca2/Lab7/blob/4e83f4c5329419f703d959d422374cb20f9708e4/TI2.PNG)
+
+**3.5.PREGUNTAS**
 
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
@@ -97,13 +98,13 @@ distintos?
 
 ![]()
 
-***5.-VIDEO***
+***4.-VIDEO***
 
 
 
-***6.-CONCLUSIONES***
+***5.-CONCLUSIONES***
 
 
-***7.-BIBLIOGRAFÍA***
+***6.-BIBLIOGRAFÍA***
 
 _Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson**
