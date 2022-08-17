@@ -74,7 +74,7 @@ Realice las mismas mediciones de los ítems del numeral anterior y presente los 
 diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y
 comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
 
-![](https://github.com/smvaca2/Lab7/blob/4e83f4c5329419f703d959d422374cb20f9708e4/TC1.PNG)
+![](https://github.com/smvaca2/Lab7/blob/14e56b1ca7758880aa98fa901a20a8aece7685e0/TC1.PNG)
 
 ![](https://github.com/smvaca2/Lab7/blob/4e83f4c5329419f703d959d422374cb20f9708e4/TC2.PNG)
 
