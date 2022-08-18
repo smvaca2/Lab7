@@ -138,7 +138,7 @@ El valor eficaz de voltaje o corriente en una corriente alterna es el valor de l
 
 ***4.-VIDEO***
 
-
+https://youtu.be/7vkfbvDUuCI
 
 ***5.-CONCLUSIONES***
 
