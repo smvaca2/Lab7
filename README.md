@@ -134,7 +134,7 @@ Voltaje y la corriente dentro de los circuitos será diferente en cada bobina o 
 
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
 
-El valor eficaz de voltaje o corriente en una corriente alterna es el valor de la corriente o un voltaje de corriente continua la diferencia de potencial capaz de producir energía tal como el valor antes mencionado de tensión o corriente alterna.
+El valor equivalente de corriente continua de una forma de onda de CA.
 
 ***4.-VIDEO***
 
