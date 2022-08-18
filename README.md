@@ -82,11 +82,11 @@ Con Frecuencia 10Hz
 
 Con Frecuencia 0Hz
 
-![]()
+![](https://github.com/smvaca2/Lab7/blob/6bc8fcad7cd60d7b8dc0b021a989c76738465aac/WhatsApp%20Image%202022-08-17%20at%206.56.34%20PM.jpeg)
 
-![]()
+![](https://github.com/smvaca2/Lab7/blob/6bc8fcad7cd60d7b8dc0b021a989c76738465aac/WhatsApp%20Image%202022-08-17%20at%206.56.33%20PM.jpeg)
 
-![]()
+![](https://github.com/smvaca2/Lab7/blob/6bc8fcad7cd60d7b8dc0b021a989c76738465aac/WhatsApp%20Image%202022-08-17%20at%206.56.33%20PM%20(1).jpeg)
 
 Con Frecuencia 10Hz
 
