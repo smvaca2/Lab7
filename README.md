@@ -119,23 +119,22 @@ comente los resultados obtenidos tomando en cuenta las distintas frecuencias uti
 
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
-Las bobinas conectadas a una corriente continua retienen el paso de electrones hasta que se almacena la energía en los campos magnéticos.
+Las bobinas conectadas a una corriente continua retienen el paso de electrones hasta que se almacena la energía en los campos magnéticos. El capacitor de corriente continua se comporta como circuito abierto, esto al estar en régimen permanente, al estar en régimen transitorio (conectando o desconectando un circuito con condensador) suceden fenómenos transitorios incidentes sobre la diferencia de potencial en bornes
 
 2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
-El capacitor de corriente continua se comporta como circuito abierto, esto al estar en régimen permanente, al estar en régimen transitorio (conectando o desconectando un circuito con condensador) suceden fenómenos transitorios incidentes sobre la diferencia de potencial en bornes
+Cuando se conecta una corriente alterna sinusoidal a una bobina aparecerá una corriente sinusoidal variable por que aparecerá una fuerza electromotriz inverza, y su valor absoluto indica que es igual al de v(t).
+Conectando una corriente alterna sinusoidal v a un capacitor fluirá la corriente i (sinusoidal igual)  dicha corriente lo cargará provocando caída de tension -vct y su valor absoluto es igual al de v(t).
 
 3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los
 circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores
 distintos?
 
-Cuando se conecta una corriente alterna sinusoidal a una bobina aparecerá una corriente sinusoidal variable por que aparecerá una fuerza electromotriz inverza, y su valor absoluto indica que es igual al de v(t)
-
-Conectando una corriente alterna sinusoidal v a un capacitor fluirá la corriente i (sinusoidal igual)  dicha corriente lo cargará provocando caída de tension -vct y su valor absoluto es igual al de v(t)
+Voltaje y la corriente dentro de los circuitos será diferente en cada bobina o capacitor dependiendo de cómo sea conectado porque los capacitores en serie se dividen y paralelos se suman, en vez de la bobina es la inversa en serie se suman y los paralelos. dividen.
 
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
 
-Voltaje y la corriente dentro de los circuitos será diferente en cada bobina o capacitor dependiendo de cómo sea conectado porque los capacitores en serie se dividen y paralelos se suman, en vez de la bobina es la inversa en serie se suman y los paralelos. dividen.
+El valor eficaz de voltaje o corriente en una corriente alterna es el valor de la corriente o un voltaje de corriente continua la diferencia de potencial capaz de producir energía tal como el valor antes mencionado de tensión o corriente alterna.
 
 ***4.-VIDEO***
 
