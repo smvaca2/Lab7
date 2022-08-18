@@ -49,7 +49,7 @@ _Estudiar el comportamiento de las bobinas en circuitos AC
 
 **3.3.PROCEDIMIENTO**
 
-1.- Construya en el protoboard el circuito mostrado en la Figura 1.
+***1.- Construya en el protoboard el circuito mostrado en la Figura 1.***
 
 a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los
 valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
@@ -62,7 +62,7 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 ![](https://github.com/smvaca2/Lab7/blob/3acf86b5d05365ad79a799d7161147440bc740ab/c1.PNG)
 
-Con Frecuencia 0Hz
+**Con Frecuencia 0Hz**
 
 ![](https://github.com/smvaca2/Lab7/blob/1a01a28e509a1df99570dd645a76557de631c135/WhatsApp%20Image%202022-08-17%20at%206.55.03%20PM.jpeg)
 
@@ -70,7 +70,7 @@ Con Frecuencia 0Hz
 
 ![](https://github.com/smvaca2/Lab7/blob/1a01a28e509a1df99570dd645a76557de631c135/WhatsApp%20Image%202022-08-17%20at%206.55.03%20PM%20(1).jpeg)
 
-Con Frecuencia 10Hz
+**Con Frecuencia 10Hz**
 
 ![](https://github.com/smvaca2/Lab7/blob/5b77ff9e9ade3cc0de08d7f21e1786d7d95958df/WhatsApp%20Image%202022-08-17%20at%206.55.51%20PM.jpeg)
 
@@ -78,9 +78,13 @@ Con Frecuencia 10Hz
 
 ![](https://github.com/smvaca2/Lab7/blob/5b77ff9e9ade3cc0de08d7f21e1786d7d95958df/WhatsApp%20Image%202022-08-17%20at%206.55.51%20PM%20(1).jpeg)
 
-2.- Construya el circuito mostrado en la Figura 2
+**Para los valores de 50Hz, 100Hz, 500Hz y 1000Hz los resultados iran directamente anotados en las tablas ya que el procedimiento será el mismo.**
 
-Con Frecuencia 0Hz
+***2.- Construya el circuito mostrado en la Figura 2***
+
+![](https://github.com/smvaca2/Lab7/blob/3acf86b5d05365ad79a799d7161147440bc740ab/c2.PNG)
+
+**Con Frecuencia 0Hz**
 
 ![](https://github.com/smvaca2/Lab7/blob/6bc8fcad7cd60d7b8dc0b021a989c76738465aac/WhatsApp%20Image%202022-08-17%20at%206.56.34%20PM.jpeg)
 
@@ -88,18 +92,14 @@ Con Frecuencia 0Hz
 
 ![](https://github.com/smvaca2/Lab7/blob/6bc8fcad7cd60d7b8dc0b021a989c76738465aac/WhatsApp%20Image%202022-08-17%20at%206.56.33%20PM%20(1).jpeg)
 
-Con Frecuencia 10Hz
+**Con Frecuencia 10Hz**
 
-![]()
+![](https://github.com/smvaca2/Lab7/blob/1fe325b7267190ffaa9e385392493360366e6f46/WhatsApp%20Image%202022-08-17%20at%206.57.10%20PM%20(1).jpeg)
 
-![]()
+![](https://github.com/smvaca2/Lab7/blob/1fe325b7267190ffaa9e385392493360366e6f46/WhatsApp%20Image%202022-08-17%20at%206.57.10%20PM%20(2).jpeg)
 
-![]()
+![](https://github.com/smvaca2/Lab7/blob/1fe325b7267190ffaa9e385392493360366e6f46/WhatsApp%20Image%202022-08-17%20at%206.57.10%20PM.jpeg)
 
-
-![](https://github.com/smvaca2/Lab7/blob/3acf86b5d05365ad79a799d7161147440bc740ab/c2.PNG)
-
-Realice las mismas mediciones de los ítems del numeral anterior y presente los resultados.
 
 **3.4.ANÁLISIS DE RESULTADOS**
 
