@@ -72,11 +72,11 @@ Con Frecuencia 0Hz
 
 Con Frecuencia 10Hz
 
-![]()
+![](https://github.com/smvaca2/Lab7/blob/5b77ff9e9ade3cc0de08d7f21e1786d7d95958df/WhatsApp%20Image%202022-08-17%20at%206.55.51%20PM.jpeg)
 
-![]()
+![](https://github.com/smvaca2/Lab7/blob/5b77ff9e9ade3cc0de08d7f21e1786d7d95958df/WhatsApp%20Image%202022-08-17%20at%206.55.51%20PM%20(2).jpeg)
 
-![]()
+![](https://github.com/smvaca2/Lab7/blob/5b77ff9e9ade3cc0de08d7f21e1786d7d95958df/WhatsApp%20Image%202022-08-17%20at%206.55.51%20PM%20(1).jpeg)
 
 2.- Construya el circuito mostrado en la Figura 2
 
