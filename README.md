@@ -62,7 +62,40 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 ![](https://github.com/smvaca2/Lab7/blob/3acf86b5d05365ad79a799d7161147440bc740ab/c1.PNG)
 
+Con Frecuencia 0Hz
+
+![](https://github.com/smvaca2/Lab7/blob/1a01a28e509a1df99570dd645a76557de631c135/WhatsApp%20Image%202022-08-17%20at%206.55.03%20PM.jpeg)
+
+![](https://github.com/smvaca2/Lab7/blob/1a01a28e509a1df99570dd645a76557de631c135/WhatsApp%20Image%202022-08-17%20at%206.55.03%20PM%20(2).jpeg)
+
+![](https://github.com/smvaca2/Lab7/blob/1a01a28e509a1df99570dd645a76557de631c135/WhatsApp%20Image%202022-08-17%20at%206.55.03%20PM%20(1).jpeg)
+
+Con Frecuencia 10Hz
+
+![]()
+
+![]()
+
+![]()
+
 2.- Construya el circuito mostrado en la Figura 2
+
+Con Frecuencia 0Hz
+
+![]()
+
+![]()
+
+![]()
+
+Con Frecuencia 10Hz
+
+![]()
+
+![]()
+
+![]()
+
 
 ![](https://github.com/smvaca2/Lab7/blob/3acf86b5d05365ad79a799d7161147440bc740ab/c2.PNG)
 
